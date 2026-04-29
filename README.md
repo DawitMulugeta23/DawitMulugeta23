@@ -1,19 +1,31 @@
-# DawitMulugeta23
+# 👋 Hi, I’m Dawit Mulugeta
 
-hi evey one👋👋👋
-<!-- Short, catchy one-line description of what this project does -->
-my name is Dawit mulugeta, I’m a third-year CS student at Debre Berhan University, and my main mission right now is mastering full-stack development. I’ve put in the hours to get comfortable with MongoDB, Express, React, and Node.js, and I’m all about using Tailwind CSS to make sure the frontend actually looks professional.
+I’m a third-year Computer Science student at **Debre Berhan University**, on a mission to master **full-stack development**.  
+I’ve put in the hours with **MongoDB, Express, React, and Node.js** — and I use **Tailwind CSS** to make sure the frontend actually looks professional.
 
-## 🚀 Features
-* **Feature 1**: Detailed explanation.
-* **Feature 2**: Detailed explanation.
-* **AI Integration**: Mention specific models or techniques (e.g., RAG, Local LLMs).
+---
+
+## 🚀 What I’m currently focused on
+
+- Building real-world full-stack applications  
+- Writing clean, maintainable code  
+- Making UIs that don’t just work, but look good too  
+
+---
 
 ## 💻 Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | React, Tailwind CSS, Redux, bootstrap, zustand |
-| **Backend** | Node.js, Express.js, php |
-| **Database** | MongoDB , mysql, postgresql|
-| **AI/ML** | Ollama, Python, LangChain |
 
+| Category       | Tools |
+|----------------|-------|
+| **Frontend**   | React, Tailwind CSS, Redux, Bootstrap, Zustand |
+| **Backend**    | Node.js, Express.js, PHP |
+| **Database**   | MongoDB, MySQL, PostgreSQL |
+| **AI/ML**      | Ollama, Python, LangChain |
+
+---
+
+## 📫 Let’s connect
+
+- GitHub: [@DawitMulugeta23](https://github.com/DawitMulugeta23)
+
+> “Make it work, make it right, make it look good.”
