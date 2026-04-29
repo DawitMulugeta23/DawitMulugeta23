@@ -11,13 +11,8 @@ A brief description of your project goes here.
 ## 💻 Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Frontend** | React, Tailwind CSS, Redux |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
+| **Frontend** | React, Tailwind CSS, Redux, bootstrap, zustand |
+| **Backend** | Node.js, Express.js, php |
+| **Database** | MongoDB , mysql, postgresql|
 | **AI/ML** | Ollama, Python, LangChain |
 
-## 🛠️ Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
