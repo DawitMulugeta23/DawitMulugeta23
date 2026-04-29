@@ -1,7 +1,8 @@
 # DawitMulugeta23
 
+hi evey one👋👋👋
 <!-- Short, catchy one-line description of what this project does -->
-A brief description of your project goes here.
+my name is Dawit mulugeta, I’m a third-year CS student at Debre Berhan University, and my main mission right now is mastering full-stack development. I’ve put in the hours to get comfortable with MongoDB, Express, React, and Node.js, and I’m all about using Tailwind CSS to make sure the frontend actually looks professional.
 
 ## 🚀 Features
 * **Feature 1**: Detailed explanation.
