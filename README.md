@@ -1,10 +1,15 @@
 # Hi there, I'm Dawit Mulugeta 👋 🇪🇹
 
 <p align="center">
-  <img src="watermarked_img_12192845322269928071.png" width="400" alt="Dawit Mulugeta - Full Stack Developer">
+  <img src="https://github.com/DawitMulugeta23/DawitMulugeta23/blob/main/readme.png?raw=true" width="450" alt="Dawit Mulugeta - Full Stack Developer">
 </p>
 
 I’m a **third-year Computer Science student at Debre Berhan University** with a mission to master full-stack development and build impactful digital solutions. I specialize in the **MERN stack** and focus on creating software that addresses real-world needs through clean code and modern architecture.
+
+---
+
+## 🔗 Portfolio
+🚀 **Check out my work here:** [Dawit's Portfolio](https://dawitmulugeta23.github.io/FUTURE_FS_01/#/)
 
 ---
 
