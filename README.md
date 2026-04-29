@@ -1,16 +1,23 @@
-## Hi there 👋
+# DawitMulugeta23
 
-<!--
-**DawitMulugeta23/DawitMulugeta23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Short, catchy one-line description of what this project does -->
+A brief description of your project goes here.
 
-Here are some ideas to get you started:
+## 🚀 Features
+* **Feature 1**: Detailed explanation.
+* **Feature 2**: Detailed explanation.
+* **AI Integration**: Mention specific models or techniques (e.g., RAG, Local LLMs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | React, Tailwind CSS, Redux |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **AI/ML** | Ollama, Python, LangChain |
+
+## 🛠️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
