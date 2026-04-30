@@ -27,7 +27,7 @@ I’m a **third-year Computer Science student at Debre Berhan University** with 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=DawitMulugeta23&show_icons=true&theme=tokyonight" alt="Dawit's Stats" />
 </p>
